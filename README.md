@@ -20,4 +20,5 @@ Domain : Data science
 3. Movie Rating Prediction project enables you to explore data analysis, preprocessing, feature engineering, and machine learning modeling techniques. It provides insights into the factors that influence movie ratings and allows you to build a model that can estimate the ratings of movies accurately.
 
 
-![images](https://github.com/user-attachments/assets/d6a0377e-c3d0-4782-b0f1-145d53f64198)
+![Uploading THank-you_blog-image-16x9.png…]()
+
